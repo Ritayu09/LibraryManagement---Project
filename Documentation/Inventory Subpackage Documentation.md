@@ -15,7 +15,7 @@ Author :Author of the literature
 __LIT METHODS__:
 Display: Display the corresponding attributes of the LIT class.
 
-BOOK CLASS:
+### __BOOK CLASS__:
 
 __BOOK CLASS ATTRIBUTES__:
 Unique Count:Counts the total number of unique books.
@@ -59,7 +59,7 @@ get_status(): gives status of Periodical: “Available”, “Not Available”, 
 update_status(): updates status of the Periodical
 display_details(): displays details of a Periodical like its title, author, category, edition and copies available
 
-__STATIONARY MODULE__:
+### __STATIONARY MODULE__:
 
 Transaction Operation is the base class for PEN,PENCIL and NOTEBOOK classes.
 __Transaction Opearation __:
