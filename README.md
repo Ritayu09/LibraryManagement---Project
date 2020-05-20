@@ -2,6 +2,8 @@
 
 ### Library Management Project
 
-The project involves Inventory module to manage books and other stationary items for the Library and Users module to keep record of library members and employees. 
+The project involves developing a library management package in Python. The package includes Inventory sub-package to manage books and other stationary items for the Library and Users sub-package to keep record of students and teachers. 
+
+The documentation folder has detailed information about different class objects along with their methods and attributes for each of the sub-package.
 
 Completed the project under Software Development Course and is integrated with Travis-CI testing.
