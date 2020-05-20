@@ -4,7 +4,7 @@
 
 __INVENTORY SUB-PACKAGE__:
 
-__LITERATURE MODULE__:
+### __LITERATURE MODULE__:
 
 __LIT DETAIL__ class is the base class for the literature module.
 
@@ -15,7 +15,7 @@ Author :Author of the literature
 __LIT METHODS__:
 Display: Display the corresponding attributes of the LIT class.
 
-### __BOOK CLASS__:
+#### __BOOK CLASS__:
 
 __BOOK CLASS ATTRIBUTES__:
 Unique Count:Counts the total number of unique books.
